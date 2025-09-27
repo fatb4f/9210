@@ -7,3 +7,7 @@
 5. Convert numbers from one of these forms to another equivalent form;
 6. Perform basic operations on powers while respecting the properties of exponents;
 7. Use these different concepts in financial situations.
+
+## Self Test
+
+[Practice Test](https://m2.teluq.ca/mod/quiz/view.php?id=51920)
